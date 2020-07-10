@@ -1,0 +1,50 @@
+[
+  {
+    "id": "7A304cDB-ED7B-eF10-149B-bfeEbD756FD7",
+    "category": "sex",
+    "code": 0,
+    "name": "男"
+  },
+  {
+    "id": "DCec0902-ec5c-1dFb-CE4A-aA16CEfe3eF9",
+    "category": "sex",
+    "code": 1,
+    "name": "女"
+  },
+  {
+    "id": "AbeEFc8d-86B6-322C-e533-c8F5fEBA16E5",
+    "category": "sex",
+    "code": 2,
+    "name": "未知"
+  },
+  {
+    "id": "fCD26AE2-cEf6-ED7b-BAdf-E4a6f3EFe4a7",
+    "category": "singer",
+    "code": 0,
+    "name": "许嵩"
+  },
+  {
+    "id": "6542D2D7-FFDD-884A-A4De-930aAD1E1AB8",
+    "category": "singer",
+    "code": 1,
+    "name": "林俊杰"
+  },
+  {
+    "id": "56478efA-eBB1-61FD-9cdF-1fA75A1Eb8Ff",
+    "category": "singer",
+    "code": 2,
+    "name": "邓紫棋"
+  },
+  {
+    "id": "6522AC6C-dEed-Ef58-9bBb-955389DB2eb1",
+    "category": "singer",
+    "code": 3,
+    "name": "YUI"
+  },
+  {
+    "id": "D5FAb5df-Cdef-01Ae-0f62-5B5BF0c5aE5f",
+    "category": "singer",
+    "code": 4,
+    "name": "Aimer"
+  }
+]
